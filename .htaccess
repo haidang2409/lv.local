@@ -1,0 +1,3 @@
+RewriteEngine on
+
+RewriteRule ^login.html$ w_site/login.php
